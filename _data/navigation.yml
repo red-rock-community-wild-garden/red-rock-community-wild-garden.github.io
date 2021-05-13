@@ -3,8 +3,8 @@ main:
    - title: "About"
      url: /about
    - title: "Contact"
-     url: /contact/
+     url: /contact
    - title: "Gallery"
-     url: /gallery/
+     url: /gallery
    - title: "Blog"
-     url: /blog/
+     url: /blog
