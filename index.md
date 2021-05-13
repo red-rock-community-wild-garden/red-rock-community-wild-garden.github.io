@@ -3,7 +3,7 @@ layout: splash
 header:
     overlay_color: "#fff"
     overlay_filter: "0.5"
-    overlay_image: assets/images/background.png
+    overlay_image: assets/images/header.jpg
 excerpt: "Community garden in the St. Luke's area of Cork City"
 intro:
     - excerpt: 'Red Rock Community Wild Garden is a volunteer-led project founded in 2021 with the aim of creating a beautiful space for our local community to grow together'
@@ -24,9 +24,9 @@ feature_row:
         btn_label: "Check out the latest news"
         btn_class: "btn--primary"
     -
-        image_path: assets/images/background.png
+        image_path: assets/images/gallery/thumbnails/three_cornered_leek.jpg
         alt: "Gallery"
-        title: "Check the site"
+        title: "Photos from the site"
         excerpt: ""
         url: "/gallery"
         btn_label: "Gallery"
