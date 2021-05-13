@@ -1,7 +1,7 @@
 ---
 layout: splash
 header:
-    overlay_color: "#000"
+    overlay_color: "#fff"
     overlay_filter: "0.5"
     overlay_image: assets/images/background.png
 excerpt: "Community garden in the St. Luke's area of Cork City"
@@ -10,27 +10,26 @@ intro:
 feature_row:
     -
         image_path: assets/images/background.png
-        alt: "placeholder image 1"
-        title: "Contact"
-        excerpt: "Interested in joining us? Get in touch"
-        url: "mailto: {{ site.author.email }}"
+        alt: "Contact Us"
+        title: "Interested in joining us?"
+        excerpt: ""
+        url: "/contact"
         btn_label: "Contact"
         btn_class: "btn--primary"
     -
         image_path: assets/images/background.png
-        alt: "placeholder image 2"
-        title: "Placeholder 2"
-        excerpt: "This is some sample content that goes here with **Markdown** formatting."
-        url: "blog"
-        btn_label: "Blog"
+        alt: "Blog Link"
+        title: "Blog"
+        url: "/blog"
+        btn_label: "Check out the latest news"
         btn_class: "btn--primary"
     -
         image_path: assets/images/background.png
-        alt: "placeholder image 2"
-        title: "Placeholder 2"
-        excerpt: "This is some sample content that goes here with **Markdown** formatting."
-        url: "#test-link"
-        btn_label: "Read More"
+        alt: "Gallery"
+        title: "Check the site"
+        excerpt: ""
+        url: "/gallery"
+        btn_label: "Gallery"
         btn_class: "btn--primary"
 ---
 
