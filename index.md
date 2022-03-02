@@ -6,7 +6,10 @@ header:
     overlay_image: assets/images/header.jpg
 excerpt: "Community garden in the St. Luke's area of Cork City"
 intro:
-    - excerpt: "St. Luke's Community Garden is a volunteer-led project founded in 2021 with the aim of creating a beautiful space for our local community to grow together"
+    - excerpt:
+        St. Luke's Community Garden is a volunteer-led project founded in 2021 with the aim of creating a 
+        beautiful space for our local community to grow together<br/><br/>We meet on the first Sunday of every month 
+        at the garden, get in touch if you'd like to join!
 feature_row:
     -
         image_path: assets/images/contact.jpg
