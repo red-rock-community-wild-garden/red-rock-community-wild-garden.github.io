@@ -6,7 +6,7 @@ header:
     overlay_image: assets/images/header.jpg
 excerpt: "Community garden in the St. Luke's area of Cork City"
 intro:
-    - excerpt: 'Red Rock Community Wild Garden is a volunteer-led project founded in 2021 with the aim of creating a beautiful space for our local community to grow together'
+    - excerpt: "St. Luke's Community Garden is a volunteer-led project founded in 2021 with the aim of creating a beautiful space for our local community to grow together"
 feature_row:
     -
         image_path: assets/images/contact.jpg
